@@ -1,14 +1,14 @@
-# Template para desenvolvimento e entrega de NAC
-
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
-
-# Nome do projeto
+# Sprint 3
 
 **nome dos alunos:** 
+* Carlos Alberto Mascarenhas Ferreira - RM 87204 
+* Carlos Rithyellen de Souza Leal - RM 89052
+* Rafael Felipe Zamignani - RM 87469
+* Renan da Silva Ramos – RM 89339
 
-**Turma:**
+**Turma:** 2TDSA
 
-**Ano:**
+**Ano:** 2º ano, 2022
 
 ## Objetivo / descrição do Projeto
 
