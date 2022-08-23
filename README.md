@@ -1,4 +1,4 @@
-# Sprint 3
+# Sprint 3 - G.Call
 
 **nome dos alunos:** 
 * Carlos Alberto Mascarenhas Ferreira - RM 87204 
@@ -44,7 +44,7 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 ## Link de vídeo demonstração
 
-Adicione o link para assistir ao vídeo do projeto funcionando.
+Vídeo de demonstração do projeto funcionando.
 
 [Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
 
