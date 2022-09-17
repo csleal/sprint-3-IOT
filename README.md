@@ -12,7 +12,7 @@
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Solução de voz/chatbot desenvolvida para o projeto do challange, com Fluxo de conversacional voz/chatbot completo.
 
 ## Diagrama do projeto
 
@@ -41,9 +41,3 @@ Node-Red IBM cloud
 Vídeo de demonstração do projeto funcionando.
 
 [Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
-
-
-### Referências 
-
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
