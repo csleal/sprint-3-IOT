@@ -46,4 +46,4 @@ Node-Red IBM cloud
 
 Vídeo de demonstração do projeto funcionando.
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/aXTZ9qU_QUs)
