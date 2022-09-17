@@ -16,9 +16,9 @@ Explique de forma clara qual o objeto deste projeto, para que serve e comente as
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
+Flow desenvolvido na instância node-red na IBM Cloud. 
 
-<img src="/imagem.jpg" width="550">
+<img src="/imagem.png" width="550">
 
 ## Nós necessários:
 
