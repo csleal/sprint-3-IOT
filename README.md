@@ -18,7 +18,13 @@ Solução de voz/chatbot desenvolvida para o projeto do challange, com Fluxo de 
 
 Flow desenvolvido na instância node-red na IBM Cloud. 
 
-<img src="/imagem.png">
+<img src="./imagens/diagrama.png">
+
+## Telegram Bot
+
+https://t.me/GCall_bot
+
+<img src="./imagens/telegram.png">
 
 ## Nós necessários:
 
