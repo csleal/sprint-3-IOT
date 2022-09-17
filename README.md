@@ -18,7 +18,7 @@ Explique de forma clara qual o objeto deste projeto, para que serve e comente as
 
 Flow desenvolvido na instância node-red na IBM Cloud. 
 
-<img src="/imagem.png" width="550">
+<img src="/imagem.png">
 
 ## Nós necessários:
 
