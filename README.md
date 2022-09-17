@@ -27,25 +27,13 @@ Node-Red IBM cloud
     node-red-node-watson
     node-red-contrib-telegrambot
 
-## Como usar 
+## Como usar
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
-
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
-
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
+- [x] Configure uma instância do node-red na cloud da IBM conforme a documentação encontrada [aqui](https://nodered.org/docs/getting-started/ibmcloud)
+- [x] instale os nós necessários
+- [x] Importe o [flow](node-red/flows_ibm) na instância node-red na IBM cloud.
+- [x] Configure os nós Telegram/Watson/TTS/STT com suas próprias credenciais de serviço
+- [ ] Sucesso! sua solução de voz está pronta.
 
 
 ## Link de vídeo demonstração
