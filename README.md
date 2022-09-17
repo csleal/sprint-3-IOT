@@ -20,6 +20,12 @@ Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do ci
 
 <img src="/imagem.jpg" width="550">
 
+## Nós necessários:
+
+Node-Red IBM cloud
+
+    node-red-node-watson
+    node-red-contrib-telegrambot
 
 ## Como usar 
 
